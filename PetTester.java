@@ -3,7 +3,8 @@
  * Allston Fojas
  * 9-29-15
  */
-public class PetTester extends VirtualPet {
+public class PetTester extends VirtualPet 
+{
     
     public static void main(String[] args){ 
        VirtualPet ctest = new VirtualPet();
